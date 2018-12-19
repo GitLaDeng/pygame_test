@@ -1,5 +1,5 @@
 '''
-精灵
+精灵 为 snake.py 文件提供信息
 '''
 import pygame
 
@@ -9,7 +9,7 @@ SCREEN_SIZE = pygame.Rect(0,0,900,600)
 # 刷新频率
 SHUA_XIN_PIN_LV = 10
 # 背景颜色
-BACKGROUND_COLOR = (230,230,230)
+BACKGROUND_COLOR = (204,153,0)
 # 线的颜色
 LINE_COLOR = (0,0,0)
 # 每个线的宽度
@@ -19,15 +19,15 @@ grid_size = 30
 # 精灵的颜色
 SPRITE_COLOR = (230,0,230)
 # 身体颜色
-BODY_COLOR = (0,230,230)
+BODY_COLOR = (61,216,255)
 # 头颜色
-HEAD_COLOR = (240,0,0)
+HEAD_COLOR = (255,10,10,128)
 # 按钮颜色
 BOTTON_COLOR = (50,165,248)
 # 按钮的大小
 BOTTON_WIDTH,BOTTON_HEIGHT = (3,2)
 # 按钮上字的颜色
-BOTTON_FONT_COLOER = (151,188,138)
+BOTTON_FONT_COLOER = (0,0,0,138)
 # 按钮的位置控制数
 BOTTON_WIDTH_SIZE,BOTTON_HEIGHT_SIZE = (10,8)
 # 退出按钮的位置

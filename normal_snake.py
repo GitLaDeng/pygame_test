@@ -16,9 +16,7 @@ control_botton = False
 
 
 class Snake():
-    '''
-    窗口类 需要snake_sprite.py文件
-    '''
+    '''窗口类'''
     def __init__(self):
         # 初始化身体的坐标
         self.init_body_list = [(10,10),(10,11),(10,12)]
@@ -30,7 +28,9 @@ class Snake():
         # 3. 创建初始化
         self.__create_init_screen()
         # 4.身体的坐标
-        self.bodyFrame = self.init_body_list
+        self.bodyFrame = [(10,10),
+                          (10, 11),
+                          (10, 12)]
         # 5.食物坐标
         self.foodFrame = [(
                             random.randint(1,int(SCREEN_SIZE.width / grid_size) -1),
@@ -38,6 +38,7 @@ class Snake():
                         )]
         # 5.定时任务 REFRESH_TIME是刷新时间
         self.timing = pygame.time.set_timer(EVENT_REFRESH,REFRESH_TIEM)
+
 
     def __create_init_screen(self):
         ''' 画地图 '''
@@ -90,10 +91,10 @@ class Snake():
             # 7.刷新
             pygame.display.update()
 
+    # 暂停
     def __stop_game(self):
-        '''暂停'''
         global control
-        control = False  # 暂停的开关
+        control = False  # 暂停
 
     def __create_botton(self,color,code,initial_postion=()):
         '''
@@ -113,15 +114,13 @@ class Snake():
         rect.topleft = initial_postion
         self.screen.blit(botton_next,initial_postion)
         # 2.在按钮上写东西
-        # self.__draw_font_on_screen(code,topleft=(initial_postion[0],initial_postion[1]+int(grid_size/2)))
-        ZiTiDuiXiang = pygame.font.SysFont('SimHei', 28)  # 支持中文的写法
+        # ZiTiDuiXiang = pygame.font.Font('freesansbold.ttf', 32)
+        ZiTiDuiXiang = pygame.font.SysFont('SimHei', 28)
         WenBenKuangDuiXiang = ZiTiDuiXiang.render(code, True, BOTTON_FONT_COLOER)
         KuangDuiXiang = WenBenKuangDuiXiang.get_rect()
         KuangDuiXiang.topleft = (initial_postion[0],initial_postion[1]+int(grid_size/2))
         self.screen.blit(WenBenKuangDuiXiang, KuangDuiXiang)
         return rect
-
-
 
     # 上下可穿越
     def __is_out_of_screen_size(self):
@@ -132,6 +131,8 @@ class Snake():
                 self.bodyFrame[i] = body[0],screenHeightSize
             elif body[1] > screenHeightSize:
                 self.bodyFrame[i] = body[0],0
+
+
 
     def __is_game_over(self):
         head = self.bodyFrame[0]
@@ -184,7 +185,6 @@ class Snake():
             self.next_botton_rect = self.__create_botton(BOTTON_COLOR, '开  始',(grid_size * BOTTON_WIDTH_SIZE, grid_size * BOTTON_HEIGHT_SIZE))
             self.quit_botton_rect = self.__create_botton(BOTTON_COLOR, "退  出", (grid_size * BOTTON_QUIT_WIDTH_SIZE, grid_size * BOTTON_QUIT_HEIGHT))
 
-
     def __check_head(self,newFangxing):
         '''
         检测方向
@@ -236,6 +236,8 @@ class Snake():
                         if self.__check_mouse(myMouse, self.quit_botton_rect):
                             self.__game_over()
 
+
+
         # 控制是否继续监听事件
         if control:
             keys_pressed = pygame.key.get_pressed()
@@ -251,6 +253,7 @@ class Snake():
             elif keys_pressed[pygame.K_DOWN]: # 方向代码是 -1
                 if self.__check_head(-1):
                     self.decoratorCheckHead(0,1,-1)
+
 
     def __check_mouse(self,myMouse,botton_rect):
         '''
@@ -284,6 +287,10 @@ class Snake():
         self.bodyFrame.insert(0,(frist_x + x,frist_y + y))
         self.bodyFrame.pop()
 
+    @staticmethod
+    def __game_over():
+        pygame.quit()
+        exit()
 
     def __draw_font_on_screen(self, code, code_color=(0, 0, 0), code_size=28, topleft=(0, 0)):
         '''
@@ -301,20 +308,8 @@ class Snake():
         KuangDuiXiang.topleft = topleft
         self.screen.blit(WenBenKuangDuiXiang, KuangDuiXiang)
 
-    @staticmethod
-    def __game_over():
-        pygame.quit()
-        exit()
-
 
 
 if __name__ == '__main__':
     snake = Snake()
     snake.start_game()
-
-
-
-
-
-
-
