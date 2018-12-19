@@ -1,0 +1,1918 @@
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="renderer" content="webkit"/>
+    <title>章节挑题 - 初中语文 - 菁优网</title>
+    <meta name="keywords" content="章节挑题 - 初中语文" />
+    <meta itemprop="name" content="章节挑题 - 初中语文 - 菁优网" />
+    <meta itemprop="image" content="http://img.jyeoo.net/images/root/home-logo.png" /> 
+    <meta name="description" itemprop="description" content="全国各地百位名师真情奉献，按照新课标理念精心解析超过十万个初中数学题目，每个题目均配有详细的分析、解答与点评" />
+    
+    <meta name="copyright" content="www.jyeoo.com" />    
+
+    <link href="http://img.jyeoo.net/favicon.ico" rel="shortcut icon" /><link href="http://img.jyeoo.net/jye-root-3.0.css?v=2018.12.10" rel="stylesheet" type="text/css" /><link href="http://img.jyeoo.net/images/formula/style.css?v=2018.10.11" rel="stylesheet" type="text/css" />
+    
+    <style type="text/css">
+        fieldset a:visited { color: #4f3798; }
+        .rp15 { padding-right: 15px; }
+
+        .more-report:hover .more-report-list { visibility: visible; opacity: 1; }
+        .more-report-list { opacity: 0; }
+    </style>
+
+    
+    <script type="text/javascript">
+        //事件统计
+        var _czc = _czc || [];
+        _czc.push(["_setAccount", "2018550"]);
+    </script>
+
+</head>
+<body  oncontextmenu="return false" oncopy="document.selection.empty()" >
+    <script type="text/javascript" src="http://img.jyeoo.net/scripts/jquery1.7.2.js?v=20181112"></script><script type="text/javascript" src="http://img.jyeoo.net/scripts/jquery/jquery.unobtrusive-ajax.min.js"></script><script type="text/javascript" src="http://img.jyeoo.net/scripts/jye.min.js?v=20181205"></script><script type="text/javascript">var imageRootUrl="http://img.jyeoo.net/",wwwRootUrl="http://www.jyeoo.com/",blogRootUrl="http://blog.jyeoo.com/",spaceRootUrl="http://space.jyeoo.com/",loginUrl="http://www.jyeoo.com/",logoutUrl="http://www.jyeoo.com/account/logoff",scriptsUrl="http://img.jyeoo.net/scripts/",isMobile=false;var mustyleAttr={color:"#000000",fontsize:"13px",fontfamily:"arial",displaystyle:"true"};document.domain="jyeoo.com";function preventDefault(e) { try { e.stopPropagation(); e.preventDefault(); } catch (x) { e.cancelBubble = true; e.returnValue = false; } return false; }if (navigator.userAgent.indexOf('MSIE') < 0) { var css = document.createElement('style'); css.type = 'text/css'; css.innerHTML = 'body{-moz-user-select:none;-webkit-user-select:none;}'; document.getElementsByTagName('head')[0].appendChild(css); }document.oncopy = function () { return preventDefault(window.event || arguments[0]); };document.onkeydown = function () { var e = window.event || arguments[0]; var c = e.keyCode || e.which; if (c == 16 || c == 17 || c == 18) { return preventDefault(e); } };$.ajaxSetup({cache:true});</script><script type="text/javascript" src="http://img.jyeoo.net/scripts/MLCore.min.js?v=2017-12-14"></script><script type="text/javascript" src="http://www.jyeoo.com/content/scripts/tinyedit/core.js?v=20140703"></script><script type="text/javascript" src="http://img.jyeoo.net/scripts/jplugins-2012.03.16.min.js"></script>
+    
+    
+
+    
+<div class="top">
+    <div class="tl">
+        <a href="http://www.jyeoo.com/" target="_blank">首页</a>
+        <em class="m6">|</em>
+        <div>
+            <span>应用<label class="caret"></label></span>
+            <ul>
+                <li><a href="/wenda" target="_blank">问答</a></li>
+                <li><a href="/homework" target="_blank">作业</a></li>
+                <li><a href="/ques/search" target="_blank">组卷</a></li>
+            </ul>
+        </div>
+        <em class="m6">|</em>
+        <a href="/appstore" target="_blank">APP</a>
+        <em class="m6">|</em>
+        <a href="http://xyh.jyeoo.com/" target="_blank" style="color:#169BEF;">校园号</a>
+        <em class="m6">|</em>
+        <a href="javascript:void(0)" class="weixin service2">
+            客服
+            <span>
+                客服热线：400-863-9889<br />
+                上班时间：9:00-12:30 &nbsp;&nbsp; 14:00-22:30<br />
+            </span>
+        </a>
+    </div>
+    <div class="tr">
+        <a href="http://www.jyeoo.com/home/recruitteacher" target="_blank" style="color: red; font-size: 16px; font-weight: bolder;">兼职招聘</a>
+        
+        <em class="m6">|</em>
+        <a href="/recharge" target="_blank" rel="nofollow"><em>充值</em></a><em class="m6">|</em>
+        <a href="http://www.jyeoo.com/home/enter" rel="nofollow"><em>走进菁优</em></a><em class="m6">|</em>
+            <a href="javascript:void(0)" onclick="openLoginUI();" class="btn-ui user" rel="nofollow">登录</a><em class="m6">|</em>
+            <a href="javascript:void(0)" onclick="openRegisterUI(); " rel="nofollow">注册</a>
+    </div>
+</div>
+
+    <div id="borwserWarning" style="display:none; width:100%;  line-height: 20px;  opacity: 0.8; position:fixed;z-index:999;">
+        <div class="warp" style="text-align: center; color: #996512; background: #FFE2B4; border: 1px solid #BB780D; border-top: none; ">
+            <span>为了更流畅的使用菁优平台，请将您浏览器的极速模式切换为兼容模式,或使用IE8及以上版本的浏览器</span>
+            <a href="javascript:void(0)" style="text-decoration:underline;" onclick="_closeWarning()">关闭</a>
+        </div>
+    </div>
+    <div class="brower-tip" style="display: none; line-height: 40px; background-color: #ededed; width: 100%; min-width: 1200px; margin: 0 auto;">
+        <div class="wrapper" style="color:red;">温馨提示：如果您的页面出现按钮不可点或局部遮挡现象，请将浏览器切换到极速模式或ie浏览器升级到“ie8”以上！</div>      
+    </div>
+    <div class="header">
+        <style>
+    .jye_auto_report { position: absolute; text-align: left; line-height: 150%; background-color: white; border: solid 1px #ccc; padding: 0px; z-index: 9999; background: white; }
+    .jye_auto_report ul { display: block; margin: 0px; background: #fff; list-style: none; padding: 0; }
+    .jye_auto_report ul li { display: block; list-style: none; line-height: 30px; cursor: pointer; margin: 0 10px; word-wrap: break-word; white-space: nowrap; overflow: hidden; }
+    .jye_auto_report ul li:hover { background: #eee; }
+    .jye_auto_report ul li.cur { background: #eee; }
+    .jye_auto_report del { text-decoration: none; color: #f00; font-style: normal; font-weight: bold; }
+</style>
+<div class="wrapper clearfix">
+    <div class="logo"><a href="http://www.jyeoo.com/"><img src="http://img.jyeoo.net/images/root/logo.png" /></a></div>
+    <div class="search" id="JYE-SEARCH-FORM">
+        <form action="/search" method="post">
+            <label class="active">试题<input type="radio" name="c" value="0" checked="checked" /></label>
+            <label>试卷<input type="radio" name="c" value="1" /></label>
+            <input type="text" id="JYE-SEARCH" name="qb" autocomplete="off" />
+            <img src="http://img.jyeoo.net/images/root/img-keyboard.png" id="mathmlHelper" />
+            <input type="submit" class="icon btn-search" value="" />
+        </form>
+    </div>
+    <div class="service">
+        <div class="service-txt">
+            <span><i class="icon i-service"></i>400-863-9889</span>
+            <div class="tip-pop">
+                <span class="angle"><i></i></span>
+                <p>客服热线：400-863-9889</p>
+                <p>上班时间：9:00-12:30   14:00-22:30</p>
+            </div>
+        </div>
+        <div class="jye-code">
+            <i class="icon i-wechat"></i>
+            <div class="tip-pop">
+                <span class="angle"><i></i></span>
+                <img src="http://img.jyeoo.net/images/root/jye-QR-code.gif" />
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        var formSearch = $("#JYE-SEARCH-FORM");
+        $("input[name=c]", formSearch).click(function () {
+            $(this).closest("label").addClass("active").siblings().removeClass("active");
+        });
+
+        try {
+            var txtSearch = $("#JYE-SEARCH", formSearch);
+            txtSearch.focus();
+            $("#mathmlHelper").MathSearch(null, function (str) { txtSearch.val(txtSearch.val() + str); });
+        } catch (e) { }
+
+        $("form", formSearch).submit(function () { var v = $("#JYE-SEARCH", formSearch).val(); if (!/[0-9a-z\u4E00-\u9FA5]/ig.test(v)) { alert("请输入正确的查询内容！"); return false; } if (v.length > 100) { $("#JYE-SEARCH", formSearch).val(v.substr(0, 99)); } return true; });
+
+        $("#JYE-SEARCH", formSearch).serchSuggest({ cd: function () { return $("input[name=c]:checked", formSearch).val() == "1"; } });
+    });
+</script>
+<script type="text/javascript">
+    $.fn.serchSuggest = function (options) {
+        var defaults = {
+            url: "/api/searchsuggest",
+            ke: "s",//提交字段
+            cd: function () { return true; },//符合条件才执行下面一系列事件
+            num: 10,//显示的最大个数限制
+            minstart: 1,//开始匹配最小字符数限制
+            minchange: 1//重新请求最小改变字符数限制
+        };
+        var op = $.extend({}, defaults, options || {});
+        var _self = $(this);
+        if (_self == "undefined" || _self.size() == 0) { return false; }
+        var sLeft = _self.offset().left - _self.closest("div").offset().left, sW = _self.outerWidth(), sH = _self.outerHeight();
+        var listbox = $('<div class=\"jye_auto_report\"></div>').insertAfter(_self).css({ left: sLeft, top: sH, width: sW }).hide();;
+        var lastinput = "", issuggesting = false;
+        window.suggestHistory = {};//历史搜索
+        _self.keyup(function (e) {
+            if (!op.cd()) return;
+            var keyword = _self.val();
+            keyword = $.trim(keyword.replace(/[a-z]/ig, ""));
+            if (keyword.length < op.minstart) { listbox.hide(); return; }
+            switch (e.keyCode) {
+                case 38:
+                    {
+                        var ei = listbox.find('li'), eic = listbox.find('li.cur'), eip;
+                        if (ei.length == 0) { return; }
+                        if (eic.length == 0 || eic.prev('li').size()==0) { eip = ei.last(); } else { eip = eic.prev(); }
+                        ei.removeClass('cur'); eip.addClass('cur'); _self.val(eip.text());
+                    }
+                    break;
+                case 40:
+                    {
+                        var ei = listbox.find('li'), eic = listbox.find('li.cur'), ein;
+                        if (ei.length == 0) { return; }
+                        if (eic.length == 0 || eic.next('li').size()==0) { ein = ei.first(); } else { ein = eic.next(); }
+                        ei.removeClass('cur'); ein.addClass('cur'); _self.val(ein.text());
+                    }
+                    break;
+                default:
+                    if (Math.abs($.trim(lastinput).length - keyword.length) >= op.minchange) {
+                        var postdata = {}; postdata[op.ke] = keyword; postdata["r"] = Math.random();
+                        if (window.suggestHistory[keyword]) {
+                            listbox.html(window.suggestHistory[keyword]).show();
+                            listbox.find("li").bind("click", function () {
+                                _self.val($(this).data("in"));
+                                listbox.find("li").removeClass("cur");
+                                $(this).addClass("cur");
+                                listbox.hide();
+                            });
+                            lastinput = keyword;
+                        }
+                        else {
+                            if (!issuggesting) {
+                                issuggesting = true;
+                                $.post(op.url, postdata, function (data) {
+                                    issuggesting = false;
+                                    if (data.length == 0) { listbox.hide(); return; }
+                                    var html = "<ul>";
+                                    var nn = op.num < data.length ? op.num : data.length;
+                                    for (var i = 0; i < nn; i++) {
+                                        if (data[i].length >= 2) {
+                                            html += "<li data-in=\"" + data[i][1] + "\">" + data[i][0] + "</li>";
+                                        }
+                                    }
+                                    html += "</ul>";
+                                    window.suggestHistory[keyword] = html;//历史搜索
+                                    listbox.html(html).show();
+                                    listbox.find("li").bind("click", function () {
+                                        _self.val($(this).data("in"));
+                                        listbox.find("li").removeClass("cur");
+                                        $(this).addClass("cur");
+                                        listbox.hide();
+                                    });
+                                }, "json");
+                                lastinput = keyword;
+                            }
+                        }
+                    }
+                    break;
+            }
+        }).focus(function () {
+            if (!op.cd()) return;
+            var keyword = _self.val();
+            if (keyword != "") {
+                if (listbox.is(":visible")) {
+                    listbox.hide();
+                } else if (listbox.find("li").length > 0) {
+                    listbox.show();
+                }
+            }
+        }).blur(function () {
+            if (!op.cd()) return;
+            setTimeout(function () { listbox.hide() }, 300);
+        });
+    }
+</script>
+    </div>
+
+<style type="text/css">
+    .RG_NAME { height: 1em; width: 3em; overflow: hidden; display: inline-block; line-height: 1em; }
+    .bread-r { position: absolute; left: 56%; padding: 20px; }
+    .bread-r a { display: inline-block; height: 24px; line-height: 24px; color: #666; background-color: #fff; border: 1px solid #dadada; border-radius: 12px; min-width: 80px; text-align: center; margin-left: 12px; }
+
+    .buy-txt { position: relative; }
+    .buy-txt img { position: absolute; left: 0; top: -10px; }
+    .nav-right { position: relative; }
+    .nav-right .top-tip, .bottom-tip { position: absolute; width: 430px; font-size: 12px; color: #666; background-color: #fffdfa; border: 1px solid #dadada; top: -39px; left: -244px; padding-left: 10px; border-radius: 5px; height: 30px; line-height: 30px; }
+    .nav-right .top-tip .triangle, .bottom-tip .triangle { position: absolute; top: 31px; width: 0; height: 0; border: 7px solid transparent; border-top-color: #d9d9d9; left: 78%; }
+    .nav-right .top-tip .triangle i, .bottom-tip .triangle i { position: absolute; width: 0; height: 0; border: 6px solid transparent; border-top-color: #fffdfa; top: -8px; left: -6px; }
+    .bottom-tip { top: 40px; right: 0; z-index: 23; width: 130px; left: 55px; }
+    .bottom-tip .triangle { border-bottom-color: #d9d9d9; border-top-color: transparent; top: -14px; }
+    .bottom-tip .triangle i { border-bottom-color: #fffdfa; border-top-color: transparent; top: -5px; }
+</style>
+<div id="divNav" class="nav-menu">
+    <div class="wrapper">
+        <div class="nav-left">
+            <div class="tip-pop tip-nav-left">
+                <span class="angle"><i></i></span>
+                <p>请选择感兴趣的学科及地区！?f=0 </p>
+                <div><a href="#">我知道了</a></div>
+            </div>
+            <div class="nav-subject">
+                <span>初中语文</span>
+                <i class="icon i-down"></i>
+                <div class="tip-pop">
+                    <dl>
+                        <dt>小学</dt>
+                        <dd><em></em></dd>
+                                <dd><a href="/math3/ques/search?f=0" class="">数学</a></dd>
+                                <dd><a href="/chinese3/ques/search?f=0" class="">语文</a></dd>
+                                <dd><a href="/english3/ques/search?f=0" class="">英语</a></dd>
+                                <dd><a href="/math0/ques/search?f=1" class="">奥数</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>初中</dt>
+                        <dd><em></em></dd>
+                            <dd><a href="/math/ques/search?f=0" class="">数学</a></dd>
+                            <dd><a href="/physics/ques/search?f=0" class="">物理</a></dd>
+                            <dd><a href="/chemistry/ques/search?f=0" class="">化学</a></dd>
+                            <dd><a href="/bio/ques/search?f=0" class="">生物</a></dd>
+                            <dd><a href="/geography/ques/search?f=0" class="">地理</a></dd>
+                            <dd><a href="/chinese/ques/search?f=0" class="active">语文</a></dd>
+                            <dd><a href="/english/ques/search?f=0" class="">英语</a></dd>
+                            <dd><a href="/politics/ques/search?f=0" class="">政治</a></dd>
+                            <dd><a href="/history/ques/search?f=0" class="">历史</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>高中</dt>
+                        <dd><em></em></dd>
+                            <dd><a href="/math2/ques/search?f=0" class="">数学</a></dd>
+                            <dd><a href="/physics2/ques/search?f=0" class="">物理</a></dd>
+                            <dd><a href="/chemistry2/ques/search?f=0" class="">化学</a></dd>
+                            <dd><a href="/bio2/ques/search?f=0" class="">生物</a></dd>
+                            <dd><a href="/geography2/ques/search?f=0" class="">地理</a></dd>
+                            <dd><a href="/chinese2/ques/search?f=0" class="">语文</a></dd>
+                            <dd><a href="/english2/ques/search?f=0" class="">英语</a></dd>
+                            <dd><a href="/politics2/ques/search?f=0" class="">政治</a></dd>
+                            <dd><a href="/history2/ques/search?f=0" class="">历史</a></dd>
+                            <dd><a href="/tech1/ques/search?f=0" class="">信息</a></dd>
+                            <dd><a href="/tech2/ques/search?f=0" class="">通用</a></dd>
+                    </dl>
+                </div>
+            </div>
+                <div style="float: left; height: 50px; cursor: pointer; width: 94px; z-index: 9; ">
+                    <i class="icon" style="width: 10px;height: 14px;background-position: 0 -25px;margin: 0 5px;"></i>
+                    <span style="font-size: 12px;"><label class="RG_NAME" title="全部"><a href="javascript:void(0)" onclick="showVipRightTip()" style="color:#fff;">地区</a></label></span>
+                </div>
+
+        </div>
+        <ul class="nav-ul">
+                <li class="active">
+                    <div class="ac-left">
+                        <i class="ac-left-top"></i>
+                        <i class="ac-left-bottom"></i>
+                    </div>
+                    <div class="ac-right">
+                        <i class="ac-right-top"></i>
+                        <i class="ac-right-bottom"></i>
+                    </div>
+                    <div class="ac-bottom"></div>
+                    <a href="/chinese/ques/search?f=0">章节挑题</a>
+                </li>
+
+            <li class="">
+                <div class="ac-left">
+                    <i class="ac-left-top"></i>
+                    <i class="ac-left-bottom"></i>
+                </div>
+                <div class="ac-right">
+                    <i class="ac-right-top"></i>
+                    <i class="ac-right-bottom"></i>
+                </div>
+                <div class="ac-bottom"></div>
+                <a href="/chinese/ques/search?f=1">知识点挑题</a>
+            </li>
+            <li class="">
+                <div class="ac-left">
+                    <i class="ac-left-top"></i>
+                    <i class="ac-left-bottom"></i>
+                </div>
+                <div class="ac-right">
+                    <i class="ac-right-top"></i>
+                    <i class="ac-right-bottom"></i>
+                </div>
+                <div class="ac-bottom"></div>
+                <a href="/chinese/paper/auto">智能挑题</a>
+            </li>
+            <li class="">
+                <div class="ac-left">
+                    <i class="ac-left-top"></i>
+                    <i class="ac-left-bottom"></i>
+                </div>
+                <div class="ac-right">
+                    <i class="ac-right-top"></i>
+                    <i class="ac-right-bottom"></i>
+                </div>
+                <div class="ac-bottom"></div>
+                <a href="/chinese/report/index">试卷中心 </a>
+                <ul>
+                        <li class=""><a href="/chinese/report/index">试卷首页</a></li>
+                        <li class=""><a href="/chinese/report/search?so=101">中考专题</a></li>
+                    <li class=""><a href="/chinese/report/search">阶段考试</a></li>
+                        <li class=""><a href="/chinese/paper/search">同步练习</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <div class="ac-left">
+                    <i class="ac-left-top"></i>
+                    <i class="ac-left-bottom"></i>
+                </div>
+                <div class="ac-right">
+                    <i class="ac-right-top"></i>
+                    <i class="ac-right-bottom"></i>
+                </div>
+                <div class="ac-bottom"></div>
+                <a href="/chinese/favorite/userpaper">我的记录</a>
+                <ul>
+                    <li class=""><a href="/chinese/favorite/userpaper">我的组卷</a></li>
+                    <li class=""><a href="/chinese/favorite/userdown">我的下载</a></li>
+                    <li class=""><a href="/chinese/favorite/ques">试题收藏</a></li>
+                    <li class=""><a href="/chinese/favorite/report">试卷收藏</a></li>
+                    
+                </ul>
+            </li>
+        </ul>
+        <div class="nav-right">
+                <i class="icon i-navman"></i>
+                <span>游客模式</span>
+                <a href="javascript:void(0)" onclick="openLoginUI()" class="nr-login">登录</a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    //level：1、精确到省级，2、精确到市；
+    $.fn.initLBS = function (level, callback) {
+        $(this).each(function (index, element) {
+            var self = $(this).append("<span><label class='RG_NAME'>[地区]</label></span>"), no = self.data("no"), label = $('label.RG_NAME', self), pop = $("<div class=\"tip-pop\"></div>").appendTo(self);
+            var province = $("<dl class=\"province\"><dt class=\"ads-head\">省份：</dt><dd></dd></dl>").appendTo(pop), province_dd = $("dd", province);
+            var city = $("<dl class=\"city2\"> <dt>选择市/区：</dt><dd></dd></dl>").appendTo(pop), city_dd = $("dd", city);
+            self.hover(function () { province.show(); city.hide(); no = self.data("no"); $("a.active", province).removeClass("active") }, function () { province.hide(); city.hide(); });
+
+            $.post("/api/area1", {}, function (data) {
+                if (data.S == 1) {
+                    return true;
+                }
+                $("<a href=\"javascript:void(0)\" data-no=\"0\">全部</a>").appendTo(province_dd);
+                for (var i = 0; i < data.D.length; i++) {
+                    if (data.D[i].ID == "1000000") {
+                        if (level == "1") {
+                            data.D[i].Name += "卷";
+                        } else {
+                            continue;
+                        }
+                    }
+                    $("<a  href=\"javascript:void(0)\" data-no=" + data.D[i].ID + "  data-type=" + data.D[i].Type + ">" + data.D[i].Name + "</a>").appendTo(province_dd);
+                    if (no == data.D[i].ID) {
+                        label.html(data.D[i].Name);
+                    }
+                }
+
+                $.post("/api/area2", { code: no }, function (data) {
+                    if (data.S == 1) {
+                        return true;
+                    }
+                    for (var i = 0; i < data.D.length; i++) {
+                        if (no == data.D[i].ID) {
+                            label.html(data.D[i].Name);
+                        }
+                    }
+                });
+
+                province.find("a").each(function () {
+                    var p = $(this);
+                    p.click(function () {
+                        $("a.active", province).removeClass("active"); p.addClass("active");
+                        if ($(this).data("type") == "-1") {
+                            cLBS($(this));
+                        }
+                        else {
+                            pLBS(p);
+                        }
+                    });
+                });
+            });
+
+            function pLBS(el) {
+                var el = $(el), pno = el.data("no");
+                if (level == "1" || pno == "") {
+                    cLBS(el);
+                }
+                else {
+                    $.post("/api/area2", { code: pno }, function (data) {
+                        if (data.S == 1) {
+                            return true;
+                        }
+                        city.show();
+                        city_dd.empty();
+                        $("<a href=\"javascript:void(0)\" data-no=" + pno + ">全省</a>").appendTo(city_dd);
+                        for (var i = 0; i < data.D.length; i++) {
+                            $("<a  href=\"javascript:void(0)\" data-no=" + data.D[i].ID + ">" + data.D[i].Name + "</a>").appendTo(city_dd);
+                            if (no == data.D[i].ID) {
+                                label.html(data.D[i].Name);
+                            }
+                        }
+                        city_dd.find("a").each(function () {
+                            var c = $(this);
+                            c.click(function () {
+                                if (pno == c.data("no")) {
+                                    cLBS(el);
+                                }
+                                else {
+                                    cLBS(c);
+                                }
+                            });
+                        });
+                    });
+                }
+            }
+
+            function cLBS(el) {
+                var el = $(el), cno = el.data("no");
+                callLBS(cno, el.html());
+            }
+
+            function callLBS(code, text) {
+                self.data("no", code);
+                label.html(code == '' ? "地区" : text).attr("title", text);
+                province.hide();
+                city.hide();
+                city_dd.empty();
+                if ($.isFunction(callback) && code != no) {
+                    callback(code, text);
+                }
+            }
+        });
+    }
+
+</script>
+<script type="text/javascript">
+    $(function () {
+        /*tab点击切换*/
+        $.fn.myTab = function (options) {//将对象作为参数传进去
+            var defult = {
+                changeCont: "",     //tab内容切换标签
+                index: null,        //显示项
+                tabType: "li",      //tab切换标签
+                changeType: "div",   //tab内容切换标签
+            };
+            var setting = $.extend({}, defult, options);//extend方法合并两个对象，如果两个对象有相同属性，则后面的那个对象的属性覆盖前面那个对象的属性。
+            $(this).find(setting.tabType).on("click", function () {
+                var $this = $(this);
+                var $index = $this.index();
+                $this.addClass("active").siblings().removeClass("active");
+                $(setting.changeCont).children(setting.changeType).eq($index).show().siblings().hide();//切换标签对应的内容
+
+            })
+            //判断进入页面显示那个标签样式和内容
+            if (setting.index == null) {
+                $(this).find(setting.tabType).eq(0).click();
+            } else {
+                $(this).find(setting.tabType).eq(options.index).click();
+            }
+        };
+
+
+        //调用
+        $(".tl-tab").myTab({
+            changeCont: ".tl-tab-cont",
+            tabType: "a",
+            changeType: "div",
+        });
+    });
+</script>        <div class="clear"></div>
+    <div class="content">
+        <div class="wrapper clearfix">
+            
+<div id="divBread" class="bread clearfix">
+    <i class="icon i-house"></i>
+    <span>当前位置：</span>
+    <a href="javascript:void(0)">章节挑题</a>
+</div>
+<div class="cleft">
+    <div class="left-toggle" id="leftToggle">
+        <p>请展开查看知识点列表</p>
+        <i class="btn-toggle toggle-r">&gt;</i>
+    </div>
+    <div class="border-blue point-tree clearfix" id="divTree">
+        <i class="btn-toggle toggle-l">&lt;</i>
+            <div class="tree-head">
+                <span id="spanEdition">人教版：</span>
+                <span id="spanGrade">八年级上</span>
+                <i class="icon i-chose"></i>
+                <div class="tip-pop chose-pop">
+                    <span class="angle"><i></i></span>
+                    
+<ul id="JYE_BOOK_TREE_HOLDER" style="display:none;"><li ek="13" nm="部编版"><ul><li bk="bb552884-64a5-47fd-b70a-d307f4731084"gd="7_1" nm="七年级上"></li><li bk="a5bf28d4-f163-4a69-9141-39d30f48b53c"gd="7_2" nm="七年级下"></li><li bk="9f719be7-1213-4249-865c-03a76ae8735f"gd="8_1" nm="八年级上"></li><li bk="2586629d-d920-4e81-9af8-30476d83a58a"gd="8_2" nm="八年级下"></li><li bk="ed22e5d4-be8f-402d-af7d-cbf59cafddb4"gd="9_1" nm="九年级上"></li></ul></li><li ek="1" nm="人教新版"><ul><li bk="b6308fec-5a14-4256-88e6-a6633eb8f93f"gd="7_1" nm="七年级上"></li><li bk="2f627442-948d-4d84-a519-ebb34bcb5520"gd="7_2" nm="七年级下"></li><li bk="bf6f2406-6fbf-45cc-b809-981dfa874e35"gd="8_1" nm="八年级上"></li><li bk="105930b0-22fe-4b5b-85c0-a334f6e4283b"gd="8_2" nm="八年级下"></li><li bk="3ff5e47f-3491-4481-891f-dd7e3e3aba92"gd="9_1" nm="九年级上"></li><li bk="1b336102-6fa7-4a35-84fe-e390578dda52"gd="9_2" nm="九年级下"></li></ul></li><li ek="3" nm="北师大版"><ul><li bk="057bb775-0d8b-41b6-a3d9-3259c8e77364"gd="7_1" nm="七年级上"></li><li bk="32e8dacb-028c-428b-9d64-ec5e9d76e1bb"gd="7_2" nm="七年级下"></li><li bk="af5a69f9-8ef0-4731-bbae-4a3e0d87a157"gd="8_1" nm="八年级上"></li><li bk="43535bfb-032e-40fc-9a8e-8878372fdd5c"gd="8_2" nm="八年级下"></li><li bk="391ea600-8151-4520-9d5e-772c8ac39781"gd="9_1" nm="九年级上"></li><li bk="1d68cbbb-9f71-4635-b671-2c817a618e79"gd="9_1" nm="九年级上"></li><li bk="87c0df8b-5219-4cf3-9831-998efa8b8ecd"gd="9_2" nm="九年级下"></li></ul></li><li ek="6" nm="语文版"><ul><li bk="c0fa5309-b6ec-4564-9b77-ff0537579de4"gd="7_1" nm="七年级上"></li><li bk="7abdc801-7840-4bae-ae4b-b3be0fa7732e"gd="7_2" nm="七年级下"></li><li bk="5c6a33b0-6982-4930-ad62-fbe67b0f5db0"gd="8_1" nm="八年级上"></li><li bk="a4fefa61-a1f2-42e1-aedc-84384b9b15c9"gd="8_2" nm="八年级下"></li><li bk="a8f2a218-765f-496f-a9b6-08f9993522f9"gd="9_1" nm="九年级上"></li><li bk="bb328ad1-6a7a-4c6a-83ea-5e8b6c31f9fe"gd="9_1" nm="九年级上"></li><li bk="1fbf11d3-98b5-42b1-bd7d-137058034ca6"gd="9_2" nm="九年级下"></li></ul></li><li ek="4" nm="苏教版"><ul><li bk="69b4e6b2-33f8-4b26-ac65-dbe07933fb02"gd="7_1" nm="七年级上"></li><li bk="cc89c66b-dbf1-4b92-8017-2b0ac41439d6"gd="7_2" nm="七年级下"></li><li bk="dbd1cd96-b4ff-45b8-b05b-181423017042"gd="8_1" nm="八年级上"></li><li bk="38cdca3b-a0f9-407a-8739-eb25032550d0"gd="8_2" nm="八年级下"></li><li bk="aa86679a-e6cb-4d48-9ac6-9282eb3a5c5d"gd="9_1" nm="九年级上"></li><li bk="19824bc4-58d3-4b2a-b25e-2e7f69ccc4c4"gd="9_2" nm="九年级下"></li></ul></li><li ek="7" nm="冀教版"><ul><li bk="b30f7038-e471-4432-a07c-ee409932622e"gd="7_1" nm="七年级上"></li><li bk="ffb748b9-08d2-42e4-aa97-4f46a66f4e41"gd="7_2" nm="七年级下"></li><li bk="4882a91a-ec40-4e47-8a65-92aa3caf25b9"gd="8_1" nm="八年级上"></li><li bk="f6bfd214-63c8-493d-9a19-039bb08d9628"gd="8_2" nm="八年级下"></li><li bk="03443626-1ab0-4fef-997a-4f791d9a641a"gd="9_1" nm="九年级上"></li><li bk="7c61d01e-fdba-4fcb-82ae-58f4c3e32c43"gd="9_2" nm="九年级下"></li></ul></li><li ek="9" nm="鄂教版"><ul><li bk="52ff0ab2-fa25-4309-b9a2-52162a0bfc9d"gd="7_1" nm="七年级上"></li><li bk="295d69b3-94bf-41ec-946f-c018a4d839d3"gd="7_2" nm="七年级下"></li><li bk="c3a82f80-df87-486a-8fd5-60c9abd0c330"gd="8_1" nm="八年级上"></li><li bk="0e189a1e-7f77-4dc0-9585-77c837277bcf"gd="8_2" nm="八年级下"></li><li bk="94764328-7979-452a-86f8-6b54aa2eb6af"gd="9_1" nm="九年级上"></li><li bk="bb651683-16be-49be-8678-ae447ec99d7f"gd="9_1" nm="九年级上"></li><li bk="25e3cf29-2eeb-4a8f-a5fc-f8826036de8b"gd="9_2" nm="九年级下"></li></ul></li><li ek="11" nm="鲁教版五四制"><ul><li bk="042632f1-d106-481c-b9eb-cb005367b43b"gd="6_1" nm="六年级上"></li><li bk="4d2500e2-5cf0-450b-b4f7-dcd7aca47ee3"gd="6_2" nm="六年级下"></li><li bk="ec054e66-f100-447e-bb86-a5db805eade7"gd="7_1" nm="七年级上"></li><li bk="55592d76-48f6-477f-a59c-8f29504538dd"gd="7_2" nm="七年级下"></li><li bk="dd6d5545-6bd1-41de-b9f6-097b440f7024"gd="8_1" nm="八年级上"></li><li bk="32cba6f4-7b10-4cba-8f51-aef5f2179936"gd="8_2" nm="八年级下"></li><li bk="ceba579a-211e-4a92-97f9-3054c21caff0"gd="9_1" nm="九年级上"></li><li bk="8104ae7a-a698-4a01-87f3-21848dbdaacc"gd="9_2" nm="九年级下"></li></ul></li></ul>
+<div class="divBook"></div>
+<script type="text/javascript">
+    var bk_p="", ed_p = "", gd_p = "";
+    $(function () {
+        $(".divBook").initPartialBook(_loadTree);
+    })
+
+    $.fn.initPartialBook = function (callback) {
+        var self = $(this);
+        var bookHolder = $("#JYE_BOOK_TREE_HOLDER");
+        var dlEdition = $("<dl></dl>").append("<dt>教材版本</dt><dd></dd>");
+        var dlGrade = $("<dl></dl>").append("<dt>年级</dt><dd></dd>");
+        self.append(dlEdition);
+        self.append(dlGrade);
+        var ed = ed_p != "" ? ed_p : $.cookie("QS_ED");
+        var bk = $.cookie("QS_BK");
+        var gd = gd_p != "" ? gd_p : $.cookie("QS_GD");
+        bookHolder.children("li").each(function () {
+            var a = $("<a style=\"margin-right:10px;\" href=\"javascript:void(0)\" data-id=\"" + $(this).attr("ek") + "\">" + $(this).attr("nm") + "</a>");
+            dlEdition.find("dd").eq(0).append(a);
+        });
+
+        $("a", dlEdition).click(function () {
+            dlGrade.find("dd").eq(0).empty();
+            var a = $(this);
+            ed = a.data("id");
+            $.cookie('QS_ED', ed);
+            a.addClass("active").siblings("a").removeClass("active");
+            var li = bookHolder.find("li[ek=" + a.data("id") + "]");
+            li.find("ul").children("li").each(function () {
+                var aa = $("<a style=\"margin-right:10px;\" href=\"javascript:void(0)\" data-id=\"" + $(this).attr("bk") + "\" data-gd=\"" + $(this).attr("gd") + "\">" + $(this).attr("nm") + "</a>");
+                aa.click(function () {
+                    bk = $(this).data("id");
+                    gd = $(this).data("gd");
+                    $.cookie('QS_BK', bk);
+                    $.cookie('QS_GD', gd);
+                    $(this).addClass("active").siblings("a").removeClass("active");
+                    if (typeof (callback) == "function") {
+                        callback(self, bk);
+                    }
+                });
+                dlGrade.find("dd").eq(0).append(aa);
+            });
+            var aa_cur = $("a[data-gd=" + gd + "]", dlGrade);
+            if (aa_cur.size() == 0) {
+                $("a:eq(0)", dlGrade).click();
+            } else {
+                aa_cur.click();
+            }
+        });
+        var a_cur = $("a[data-id=" + ed + "]", dlEdition);
+        if (a_cur.size() == 0) {
+            $("a:eq(0)", dlEdition).click();
+        } else {
+            a_cur.click();
+        }
+    }
+
+</script>
+                </div>
+            </div>
+            <div class="tree">
+                <div id="divTree2"></div>
+                <a href="javascript:void(0)" id="aPaperSearch" onclick="return goPaperSearch(this,'chinese')"><em class="cff8a00">章节同步卷，可前往</em>“同步练习卷”</a>
+            </div>
+        
+    </div>
+</div>
+<div class="cmiddle">
+    <div>
+        
+        <table class="degree" style="width:100%;">
+            <tbody>
+                <tr>
+                    <th style="width:3em;">题型</th>
+                    <td colspan="2">
+                        <ul>
+                            <li><a href="javascript:void(0)" class="cur" onclick="QSearch.setParam(this,'ct','0')">全部</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','1')">选择题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','2')">填空题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','3')">不定项选择题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','4')">基础知识</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','5')">语言运用</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','6')">名著阅读</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','7')">综合读写</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','8')">默写</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','9')">解答题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','10')">翻译</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','11')">古诗词赏析</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','12')">文言文阅读</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','13')">现代文阅读</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'ct','14')">作文</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th style="width:3em;">难度</th>
+                    <td colspan="2">
+                        <ul>
+                                <li><a href="javascript:void(0)" class="cur" onclick="QSearch.setParam(this,'dg','0')">全部</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'dg','11')">易</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'dg','12')">较易</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'dg','13')">中档</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'dg','14')">较难</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'dg','15')">难</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th>题类</th>
+                    <td colspan="2">
+                        <ul>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'fg','0')" class="cur">全部</a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'fg','8')" class="">常考题</a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'fg','4')" class="">易错题</a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'fg','2')" class="">好题</a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'fg','16')" class="">压轴题</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th>来源</th>
+                    <td colspan="2">
+                        <ul>
+                            <li><a href="javascript:void(0)" class="cur" onclick="QSearch.setParam(this,'so','0')">全部</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','1')">中考真题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','3')">自主招生</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','4')">中考模拟</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','5')">中考复习</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','6')">期末试题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','7')">期中试题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','8')">月考试题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','9')">单元测验</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','10')">同步练习</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','11')">竞赛试题</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','12')">假期作业</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'so','20')">好题集</a></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th>年份</th>
+                    <td colspan="2">
+                        <ul>
+                                <li><a href="javascript:void(0)" class="cur" onclick="QSearch.setParam(this,'yr','')">全部</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2018')">2018</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2017')">2017</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2016')">2016</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2015')">2015</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2014')">2014</a></li>
+                                <li><a href="javascript:void(0)" class="" onclick="QSearch.setParam(this,'yr','2013,2012,2011,2010,2009')">更早</a></li>
+                        </ul>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th>排序</th>
+                    <td>
+                        <ul>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this,'po', '0','pd', '0')" class="cur">综合排序<i class="icon i-down"></i></a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this, 'po', '1', 'pd','1')" class="">组卷次数<i class="icon i-down"></i></a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this, 'po', '2', 'pd','1')" class="">真题次数<i class="icon i-down"></i></a></li>
+                            <li><a href="javascript:void(0)" onclick="QSearch.setParam(this, 'po', '3', 'pd','1')" class="">试题难度<i class="icon i-down"></i></a></li>
+                        </ul>
+
+                    </td>
+                    <td style="text-align:right; padding-right:15px;" id="TotalQuesN"></td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <div class="chose-point clearfix" style="padding-top:0; padding-left:10px;">
+                            <div class="chose-list">
+
+                            </div>
+                            <span class="fright rp15 cursor" id="isAnswer"><i class="icon i-eye"></i>显示答案</span>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="c15"></div>
+    <div id="pageArea"></div>
+</div>
+<div id="divRight" class="cright">
+    
+<style type="text/css">
+    .barBox { position: absolute; top: -292px; left: -620px; width: 600px; height: 400px; background-color: rgb(255,255,255); border: 1px solid #c6c5c1; border-radius: 10px; }
+    .barBox .btn-close { position: absolute; width: 16px; height: 16px; line-height: 14px; border-radius: 50%; border: 1px solid #919293; right: 10px; top: 10px; text-align: center; cursor: pointer; z-index: 99; }
+    .chart-box { height: 400px; width: 200px; left: -202px; }
+</style>
+
+<a href="javascript:void(0)" target="_blank" style="color:#fff;" onclick="return enterMakePaper(this)">
+<div class="enter-paper">    
+        <i class="icon i-basket"></i>
+        <div class="enter-num"><b>0</b>/0</div>
+        <p class="txt">进入组卷</p>
+        <i class="icon i-enter"></i>
+        <div class="border-blue chart-box">
+            <div class="chart-pie">
+                <div id="chartPie" style="width: 200px;height:190px"></div>
+            </div>
+            <div class="chart-bar">
+                <div id="chartBar" style="width: 200px;height:190px"></div>
+            </div>
+        </div>    
+</div>
+</a>
+
+<script type="text/javascript">
+    function loadChart1() {
+        var myChart1 = echarts.init(document.getElementById('chartPie'));
+        var option1 = {
+            color: [
+               '#1579e5', '#74b7ff', '#aad3ff'
+            ],
+            legend: {
+                orient: 'vertical',
+                x: 'center',
+                y: 'bottom',
+                selectedMode: false,
+                //data: ['选择题', '填空题', '解答题'],
+                data: [],
+                formatter: function (name) {
+                    return name
+                }
+            },
+            calculable: false,
+            series: [
+                {
+                    type: 'pie',
+                    radius: '55%',
+                    center: ['50%', '35%'],
+                    data: [],
+                    itemStyle: {
+                        normal: {
+                            label: {
+                                position: 'inner',
+                                formatter: function (params) {
+                                    return (params.percent - 0).toFixed(0) + '%'
+                                }
+                            },
+                            labelLine: {
+                                show: false
+                            }
+                        },
+                        emphasis: {
+                            label: {
+                                show: true,
+                                textStyle: {
+                                    fontSize: '12'
+                                }
+                            }
+                        }
+                    }
+
+                }
+            ]
+        };
+        option1.legend.data =["选择题(0)","填空题(0)","解答题(0)"]
+        option1.series[0].data =[{"value":0,"name":"选择题(0)"},{"value":0,"name":"填空题(0)"},{"value":0,"name":"解答题(0)"}]
+        myChart1.setOption(option1);
+    }
+</script>
+<script type="text/javascript">
+    function loadChart2() {
+        var myChart2 = echarts.init(document.getElementById('chartBar'));
+        var option2 = {
+            calculable: false,
+            grid: {   //绘图区调整
+                x: 10,  //左留白
+                y: 30,   //上留白
+                x2: 10,  //右留白
+                y2: 30,   //下留白
+                borderWidth: 0
+            },
+            tooltip: {
+                showContent:false
+            },
+            xAxis: [
+                {
+                    type: 'category',
+                    data: ['难', '较难', '中档', '较易', '易'],
+                    splitLine: {
+                        show: false
+                    },
+                    axisTick: [{    //坐标轴小标记
+                        show: false
+                    }],
+                    axisLine: {
+                        lineStyle: {
+                            type: 'solid',
+                            color: '#dadada',//左边线的颜色
+                            width: '2'//坐标线的宽度
+                        }
+                    },
+                    axisLabel: {
+                        formatter: function (val) {
+                            if (val.length > 3) return val.substring(0, 3) + "...";
+                            else return val;
+                        },
+                        textStyle: {
+                            color:'#333333'
+                        }
+                    }
+                }
+            ],
+            yAxis: [
+                {
+                    type: 'value',
+                    show: false
+                }
+            ],
+            series: [
+                {
+                    name: '',
+                    type: 'bar',
+                    data: [],
+                    barWidth: 20,  //柱宽度
+                    itemStyle: {
+                        normal: {    //柱状图颜色
+                            color: '#3194ff',
+                            label: {
+                                show: true,   //显示文本
+                                position: 'top',  //数据值位置
+                                textStyle: {
+                                    color: '#000',
+                                    fontSize: '12',
+                                    fontFamily: '微软雅黑'
+                                }
+                            }
+                        }
+                    }
+                }
+
+            ]
+        };
+        option2.series[0].data = [0,0,0]
+        myChart2.setOption(option2);
+    }
+</script>
+
+<script type="text/javascript">
+    var subject = "chinese", ids = [], isEmpty = "1";
+    $(function () {
+        $(".quesborder,.JYE_MATH_SELECTOR").each(function () {
+            try { renderLatex(this); } catch (e) { }
+        });
+        initCart();
+        if (typeof (echarts) == "undefined") {
+            $.getScript("http://img.jyeoo.net/scripts/echarts/echarts.min.js").done(function (script, status) {
+                if (status == "success" && typeof (echarts) != "undefined") {
+                    loadCharts();
+                } else {
+                    showMessage("试题篮图表加载失败，请刷新网页重试。",false);
+                }
+            });
+        } else {
+            loadCharts();
+        }
+    });
+
+    function loadCharts() {
+        loadChart1();
+        loadChart2(); 
+    }
+
+    function initCart(holder) {
+        var lis = $(".QUES_LI");
+        if (holder) lis = $(".QUES_LI", $(holder));
+        lis.each(function () {
+            var el = $(this);
+            var fdt = el.find("fieldset:last");
+            var quesID = fdt.attr("id");
+            var subject = fdt.attr("s");
+            var inCart = $.inArray(quesID, ids) != -1;
+            if (inCart) {
+                el.addClass("ques-add");
+                var a = $("a.add", el.find(".fieldtip"));
+                //a.attr("onclick", "removeQuesCart(this,'" + quesID + "')");
+                a.unbind("click").click(function () { removeQuesCart(this, quesID); });
+                a.find("i").removeClass("i-add").addClass("i-subtract");
+            } else {
+                el.removeClass("ques-add");
+                var a = $("a.add", el.find(".fieldtip"));
+                //a.attr("onclick", "addQuesCart(this,'" + quesID + "')");
+                a.unbind("click").click(function () { addQuesCart(this, quesID); });
+                a.find("i").removeClass("i-subtract").addClass("i-add");
+            }
+        });
+
+        //试卷详情特殊处理（加入试题篮按钮放在弹出框footer-bar）
+        var footerBar = $(".box-wrapper").find(".footer-bar");
+        if (footerBar.find("a.add").size() > 0) {
+            var fdt = $(".box-wrapper").find("fieldset:last");
+            var a = footerBar.find("a.add");
+            if (fdt.size() > 0) {
+                var quesID = fdt.attr("id");
+                var inCart = $.inArray(quesID, ids) != -1;
+                if (inCart) {
+                    fdt.closest(".QUES_LI").addClass("ques-add");
+                    a.unbind("click").click(function () { removeQuesCart(this, quesID, 1); });
+                    a.find("i").removeClass("i-add").addClass("i-subtract");
+                } else {
+                    fdt.closest(".QUES_LI").removeClass("ques-add");
+                    a.unbind("click").click(function () { addQuesCart(this, quesID, 1); });
+                    a.find("i").removeClass("i-subtract").addClass("i-add");
+                }
+            }
+        }
+    }
+
+    function refreshCart() {
+        $("#divRight").load("/" + subject + "/paper/cart?r=" + Math.random());
+    }
+    function addQuesCart(el, id, ftb) {
+        if (!jyeoo.isLogin()) { openLoginUI(); return; }
+        var cart = $(".enter-paper"), cart_set = cart.offset();
+        var add = $(el);
+        var curLi = add.closest(".QUES_LI");
+        if (ftb == 1) {
+            curLi = add.closest(".box-wrapper").find(".QUES_LI");
+        }
+        var curLi_set = curLi.offset();
+
+        $.post("/" + subject + "/paper/addquescart", { quesID: id, r: Math.random() }, function (data) {
+            if (data.S == 0) {
+                //var newItem = add.closest(".fieldtip").siblings(".quesborder").clone().appendTo(document.body).addClass("newFieldtip").css({ "position": "absolute", "background": "#f4f4f4", "border": "1px solid #ccc", "z-index": "8888" });
+                var newItem = curLi.clone().appendTo(document.body).addClass("newFieldtip").css({ "position": "absolute", "background": "#f4f4f4", "border": "1px solid #ccc", "z-index": "8888" });
+                newItem.css({ "top": curLi_set.top, "left": curLi_set.left, "width": curLi.width(), "height": curLi.height() })
+                        .animate({ "width": cart.width(), "height": cart.height(), "top": cart_set.top, "left": cart_set.left }, 800, function () {
+                            $(this).remove();
+                        });
+                refreshCart();
+            } else {
+                showMessage(data.M, false);
+            }
+        });
+    }
+    function removeQuesCart(el, id, ftb) {
+        if (!jyeoo.isLogin()) { openLoginUI(); return; }
+        var cart = $(".enter-paper"), cart_set = cart.offset();
+        var add = $(el);
+        var curLi = add.closest(".QUES_LI");
+        if (ftb == 1) {
+            curLi = add.closest(".box-wrapper").find(".QUES_LI");
+        }
+        curLi_set = curLi.offset();
+
+        $.post("/" + subject + "/paper/removequescart", { quesID: id, r: Math.random() }, function (data) {
+            if (data.S == 0) {
+                //var newItem = add.closest(".fieldtip").siblings(".quesborder").clone().appendTo(document.body).addClass("newFieldtip").css({ "position": "absolute", "background": "#f4f4f4", "border": "1px solid #ccc", "z-index": "8888" });
+                var newItem = curLi.clone().appendTo(document.body).addClass("newFieldtip").css({ "position": "absolute", "background": "#f4f4f4", "border": "1px solid #ccc", "z-index": "8888" });
+                newItem.css({ "top": cart_set.top, "left": cart_set.left, "width": cart.width(), "height": cart.height() })
+                        .animate({ "top": curLi_set.top, "left": curLi_set.left, "width": curLi.width(), "height": curLi.height() }, 800, function () {
+                            $(this).remove();
+                        });
+                refreshCart();
+            } else {
+                showMessage(data.M, false);
+            }
+        });
+    }
+
+    function enterMakePaper(el) {
+        if (isEmpty == "1") {
+            showMessage("当前试题篮为空，不能组卷，请添加试题后再进行组卷。", false);
+            return false;
+        } else {
+            $(el).attr("href", "/chinese/paper/make");
+            return true;
+        }
+    }
+</script>
+
+</div>
+
+        </div>
+    </div>
+    <div class="foot">
+        <div style=" width:700px;height:80px;margin:0 auto"><div><a target="_blank" href="http://www.jyeoo.com/open" rel="nofollow">商务合作</a><em class="m5">|</em><a target="_blank" href="http://www.jyeoo.com/home/note" rel="nofollow">服务条款</a><em class="m5">|</em><a target="_blank" href="http://www.jyeoo.com/home/enter" rel="nofollow">走进菁优</a><em class="m5">|</em><a target="_blank" href="http://www.jyeoo.com/support" rel="nofollow">帮助中心</a><em class="m5">|</em><a id="aCNZZ" title="站长统计" href="http://www.cnzz.com/stat/website.php?web_id=2018550" target="_blank">站长统计</a><script type="text/javascript">$(function(){$.getScript('http://s94.cnzz.com/stat.php?id=2018550&web_id=2018550', function () { $('#aCNZZ').prop('title', '菁优网站长统计'); });});</script><em class="m5">|</em><a target="_blank" href="http://www.jyeoo.com/home/suggest" rel="nofollow">意见反馈</a><div style="clear:both"></div><a target="_blank" href="http://www.miibeian.gov.cn/">粤ICP备10006842号</a> <a target="_blank" href="http://www.gdca.gov.cn/">粤B2-20100319</a> &nbsp;&copy;2010-2018&nbsp;&nbsp;jyeoo.com 版权所有，V3.17128</div></div>
+<script type="text/javascript">
+    var pageProtocol = document.location.protocol;
+    if (pageProtocol == "https:" || pageProtocol == "https") {
+        location.href = 'http://www.jyeoo.com/';
+    }
+</script>
+    </div>
+    <div id="divMsg" style="display:none; z-index:6001;"></div>
+    <a title="返回顶部" class="return-top" style="right:30px;position:fixed;display:block;bottom:30px;z-index:9999999999" href="#"></a>
+    <script type="text/javascript">
+
+        $(function () {
+            starCheckMessage();
+            _checkBrowser();
+            remind_check();
+
+            $(".quesborder,.JYE_MATH_SELECTOR").each(function () {
+                try { renderLatex(this); } catch (e) { }
+            });
+        });
+
+        function _checkBrowser() {
+            try {
+                //ie7提醒
+                if (navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.split(";")[1].replace(/[ ]/g, "") == "MSIE7.0") {
+                    $(".brower-tip").show();
+                }
+
+                if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+                    var desc = navigator.mimeTypes['application/x-shockwave-flash'].description.toLowerCase();
+                    if (desc.indexOf('adobe') > -1 || navigator.appVersion.indexOf('UBrowser') > -1) {
+                        $("#borwserWarning").animate({ "height": "show" });
+                        setTimeout(_closeWarning, 2000);
+                        return;
+                    }
+                    var mimeType = navigator.mimeTypes;
+                    for (var i = 0; i < mimeType.length; i++) {
+                        if (mimeType[i]['type'].indexOf('sogou') > -1) {
+                            $("#borwserWarning").animate({ "height": "show" });
+                            setTimeout(_closeWarning, 2000);
+                            break;
+                        }
+                    }
+                }
+            } catch (e) {
+                return;
+            }
+        }
+        function _closeWarning() {
+            $("#borwserWarning").animate({ "height": "hide" });
+        }
+        function showConfirm(content, yes, no) {
+            var o = openBox({ width: 480, height: 120, title: "【消息确认】" });
+            var con = o.getContent().css({ "text-align": "center", "line-height": "60px", "font-family": "微软雅黑", "font-size": "16px", "color": "#7A1313" });
+            o.setContent(content + "</br>");
+
+            if (typeof yes === 'object' && yes !== null && yes.length === 2) {
+                $("<input  class=\"btn btn-blue btn-lg\" type=\"button\"/>").css({ "margin": "0 10px" }).val(yes[0]).click(yes[1]).appendTo(con);
+            }
+            if (typeof no === 'object' && no !== null && no.length === 2) {
+                $("<input class=\"btn btn-default btn-lg\" type=\"button\"/>").css({ "margin": "0 10px" }).val(no[0]).click(no[1]).appendTo(con);
+            }
+        }
+    </script>
+    <!--公共方法-->
+    <script type="text/javascript">
+        function openLoginUI(u, t) {
+            $('<div class="box-overlay"></div>').css({ zIndex: 1001, width: '100%', height: $(document).height(), display: 'block' }).appendTo(document.body);
+            var box = $("#loginwrap");
+            if (box.size() == 0) {
+                box = $("<div class=\"loginwrap\" id=\"loginwrap\" style=\"position: fixed; z-index: 1003; top: 50%; margin-top: -270px; left: 50%; margin-left: -360px;\"><div>");
+            }
+            var pu = typeof (u) != 'undefined' ? encodeURIComponent(u) : '', pt = typeof (t) != 'undefined' ? encodeURIComponent(t) : '';
+            var loginUrl = "/api/iframelogin?t=" + pt + '&u=' + pu + "&r=" + Math.random();
+            box.appendTo($(document.body)).empty().load(loginUrl);
+        }
+        function openRegisterUI(id, e, r) {
+            $('<div class="box-overlay"></div>').css({ zIndex: 1001, width: '100%', height: $(document).height(), display: 'block' }).appendTo(document.body);
+            var box = $("#loginwrap");
+            if (box.size() == 0) {
+                box = $("<div class=\"loginwrap\" id=\"loginwrap\" style=\"position: fixed; z-index: 1003; top: 50%; margin-top: -270px; left: 50%; margin-left: -360px;\"><div>");
+            }
+            var pid = typeof (id) != 'undefined' ? encodeURIComponent(id) : '', pe = typeof (e) != 'undefined' ? encodeURIComponent(e) : '',
+                pr = typeof (r) != 'undefined' ? encodeURIComponent(r) : '';
+            var registerUrl = "/api/iframeregister?id=" + id + "&e=" + pe + "&r=" + pr + "&rm=" + Math.random();
+            box.appendTo($(document.body)).empty().load(registerUrl);
+
+        }
+        function samePaper(el, subject, key, type) {
+            var right = "0";
+            if (!jyeoo.isLogin()) { openLoginUI(); return false; }
+            if (right == "1") {
+                var url = "/" + subject + "/paper/same?rid=" + key + "&rf=" + type;
+                $(el).attr("href", "/" + subject + "/paper/sameinit?u=" + encodeURIComponent(url));
+                return true;
+            } else {
+                showVipRightTip();
+                return false;
+            }
+        }
+        function showVipRightTip(str) {
+            var a = "";
+            if (str) a = str;
+            var msgBar = $("<div></div>").attr("id", "_message").appendTo("body");
+            msgBar.load("/home/viprighttip", { a: a, r: Math.random() }, function () {
+                $(this).loaded();
+            });
+        }
+        function enterPaper(el, subject, id) {
+            if (!jyeoo.isLogin()) { openLoginUI(); return false; }
+            $.post("/" + subject + "/paper/judgepaperright/" + id, {}, function (data) {
+                if (data.S == 0) {
+                    var url = "/" + subject + "/paper/detail/" + id;
+                    $(el).attr("href", url);
+                    return true;
+                } else {
+                    showMessage(data.M, false, false, 460);
+                    return false;
+                }
+            });
+        }
+        function _propAnswerClick(el) {
+            el = $(el);
+            if (el.find("i").hasClass("i-eye")) {
+                el.html("<i class=\"icon i-hide\"></i>隐藏答案");
+                toggleAnswers(true);
+            } else {
+                el.html("<i class=\"icon i-eye\"></i>显示答案");
+                toggleAnswers(false);
+            }
+        }
+        function toggleAnswers(show, el) {
+            var holder = $(".ques-list");
+            if (el) holder = $(el);
+            if (show) { //显示
+                $("td.selectoption", holder).each(function (i, e) {
+                    var el = $(e);
+                    if (el.children("label").hasClass("s")) {
+                        el.children("label").removeClass("sh");
+                    }
+                });
+                $("div.quizPutTag", holder).each(function (i, e) {
+                    var el = $(e);
+                    var tempAnswer = el.prop("Answer");
+                    if (tempAnswer) tempAnswer = text2MathML(tempAnswer);
+                    el.html(tempAnswer);
+                    renderLatex(el[0]);
+                });
+            } else { //隐藏
+                $("td.selectoption", holder).each(function (i, e) {
+                    var el = $(e);
+                    $(".s", el).addClass("sh");
+                });
+                $("div.quizPutTag", holder).each(function (i, e) {
+                    var el = $(e).prop("Answer", "");
+                    el.prop("Answer", el.html()).html("&nbsp;");
+                })
+            }
+        }
+        function showMessage(content, b, c, w) {
+            hideMessage();
+            var width = 400;
+            if (w) width = w;
+            var left = -(width / 2 + 40);
+            var msgBar = $('<div style="width:' + width + 'px;margin-left:' + left + 'px;"><p></p><div><a href="javascript:void(0)" onclick="hideMessage(this)" class="btn btn-blue btn-lg">我知道了</a></div></div>').attr('id', '_message').addClass('msgtip').appendTo('body');
+            b = typeof (b) === 'undefined' ? true : b;
+            if (b) {
+                msgBar.prepend('<h2><i class="icon i-success"></i><span>操作成功</span></h2>');
+            } else {
+                msgBar.prepend('<h2><i class="icon i-fail"></i><span>操作失败</span></h2>');
+            }
+            c = typeof (c) == 'undefined' ? true : c;
+            msgBar.find('p').html(content).slideDown('slow');
+            if (c) {
+                g_msgtimeout = window.setTimeout(hideMessage, 5000);
+            }
+        }
+        function hideMessage() {
+            $('#_message').slideUp('slow').remove();
+            if (g_msgtimeout != null) { window.clearTimeout(g_msgtimeout); g_msgtimeout = null; }
+        }
+        function openBox(o, u, p, c) {
+            var d = { "width": 900, "height": 460, "title": "菁优网", "buttons": {} };
+            o = $.extend({}, d, o || {});
+
+            var b = new Box(o);
+            var h = b.getContent();
+            var f = b.getFooterBar();
+            f.find("button").addClass(" fright btn btn-blue btn-lg");
+
+            if (typeof (u) != 'undefined') {
+                if (typeof (p) == 'undefined' || p == null || p == {}) {
+                    h.empty().loading("CT").load(u, function () {
+                        h.loaded();
+
+                        if ($.isFunction(c)) { c(b); }
+                    });
+                } else {
+                    h.empty().loading("CT").load(u, p, function () {
+                        h.loaded();
+
+                        if ($.isFunction(c)) { c(b); }
+                    });
+                }
+            }
+
+            return b;
+        }
+
+        function showDetail(el, subject, quesID, tp) {
+            if (!jyeoo.isLogin()) { openLoginUI(); return; }
+            var option = {
+                width: "1000", height: "444", draggable: false, title: "试题详情", buttons: { "关闭": function () { } }
+            };
+            var url = "/" + subject + "/ques/quesanswer";
+            var box = openBox(option, url, { id: quesID, tp: tp, r: Math.random() }, function () {
+                var boxWrapper = box.getContent().closest(".box-wrapper");
+                boxWrapper.css({ "position": "fixed", "top": "50%", "margin-top": "-" + option.height / 2 - 50 + "px" });
+            });
+            
+            var ftb = box.getInner().find(".footer-bar span:eq(0)");
+            ftb.find("button").remove();
+            var urlDetail = "http://www.jyeoo.com/" + subject + "/ques/detail/" + quesID;
+            if (tp != "1") {
+                ftb.append("<a href=\"javascript:void(0)\" class=\"btn btn-orange btn-lg add\"><i class=\"xs-icon i-add\"></i>试题篮</a>");
+            }
+            ftb.append("<a href=\""+urlDetail+"\" target=\"_blank\" type=\"button\" class=\"fright btn btn-blue btn-lg\">转入页面式查看</a>");
+        }
+        function _openComment(el) {
+            $(el).next(".error-box").show();
+        }
+        function _closeComment(el) {
+            $(el).closest(".error-box").hide();
+        }
+        function commentMe() {
+            $(".error-box").find("#tbComment").val("");
+            $(".error-box").hide();
+        }
+
+        function openAnalyze(el, subject, id, tp) {
+            if (!jyeoo.isLogin()) { openLoginUI(); return; }
+            var option = { width: "800", height: "500", draggable: true, title: "试卷分析" };
+            var url = "/" + subject + "/paper/analyze";
+            var param = { id: id, tp: tp, r: Math.random() };
+            if (tp == "4") { //平行组卷
+                var groups = _getGroups();
+                var a = JSON.stringify(groups);
+                param.a = a;
+            }
+            var box = openBox(option, url, param);
+            box.getInner().find(".footer-bar").remove();
+        }
+
+        function openConfirm(title, s, id, dt, hw) {
+            if (jyeoo.isLogin()) {
+                var dcm = $('div.JYE_DCM'), df = 1, da = 1, ds = 1, dm = 7, dfkey = 'dc_' + dt + '_df', dakey = 'dc_' + dt + '_da', dsKey = 'dc_' + dt + '_ds', dmkey = 'dc_' + dt + '_dm';
+                if (dcm.size() > 0) {
+                    df = $('input[name=df]:checked', dcm).val();
+
+                    if ($('input[name=da]', dcm).size() > 0) {
+                        da = $('input[name=da]:checked', dcm).val();
+                    }
+
+                    if ($('input[name=ds]', dcm).size() > 0) {
+                        ds = $('input[name=ds]:checked', dcm).val();
+                    }
+
+                    dm = 0;
+                    $('input[name=dm]:checked', dcm).each(function () { dm = dm | parseInt($(this).val(), 10); });
+
+                    $.cookie(dfkey, df);
+                    $.cookie(dakey, da);
+                    $.cookie(dmkey, dm);
+                    $.cookie(dsKey, ds);
+
+                    closeBox();
+                } else {
+                    var vm = $.cookie(dfkey);
+                    if (vm != null && vm.length > 0) { df = vm; }
+
+                    vm = $.cookie(dakey);
+                    if (vm != null && vm.length > 0) { da = vm; }
+
+                    vm = $.cookie(dsKey);
+                    if (vm != null && vm.length > 0) { ds = vm; }
+
+                    vm = $.cookie(dmkey);
+                    if (vm != null && vm.length > 0) { dm = vm; }
+                }
+
+                var w = 850, h = 500;
+                if (dt == 1 || dt == 4 || dt == 7) { h = 492; }
+
+                if (typeof (hw) == "undefined") { hw = ''; }
+
+                var options = { 'width': w, 'height': h, 'title': title };
+
+                var box = openBox(options, '/' + s + '/api/confirm?id=' + encodeURIComponent(id) + '&dt=' + dt + '&df=' + df + '&da=' + da + '&ds=' + ds + '&dm=' + dm + '&hw=' + encodeURIComponent(hw) + '&r=' + Math.random());
+                box.getInner().find(".footer-bar").remove();
+            } else {
+                openLoginUI(window.location.href);
+            }
+        }
+
+        //相似题/换一题
+        function viewSimilar(el, subject, quesID, tp, holder) {
+            if (!jyeoo.isLogin()) { openLoginUI(); return; }
+            var options = { width: 800, height: 400, title: "【相似题】", buttons: { "关闭": function () { closeBox(this); } } };
+            if (tp == 1) {
+                options.title = "【换一题】";
+                options.buttons = { "确定": function () { saveSimilarChange(el, subject); }, "取消": function () { closeBox(this); } };
+            }
+            var similarBox = openBox(options);
+            similarBox.setContent("<div id='changeQues' class=\"change-ques\"></div>");
+            loadSimilarData(quesID, subject, tp, holder);
+        }
+        function loadSimilarData(quesID, subject, tp, holder) {
+            var pi = 1;
+            if ($("#pagenum").size() > 0) { pi = $("#pagenum").val(); }
+            var dom = $("#changeQues").empty();
+            SimilarWaiting();
+            $.post("/" + subject + "/ques/relative", { 'id': quesID, 'ecp': _getQuesIDs(holder), 'tp': tp, 'pi': pi, 'r': Math.random() }, function (data) {
+                dom.html(data);
+            });
+        }
+        function _getQuesIDs(holder) {
+            var lis = $("li.QUES_LI");
+            if (holder) lis = $("li.QUES_LI", $(holder));
+            var ids = "";
+            lis.each(function () {
+                ids += $(this).find('fieldset').attr("id") + "|";
+            });
+            return ids;
+        }
+        function SimilarWaiting() {
+            var a = "<div style=\"text-align: center;margin: 50px;line-height: 50px;\"><div><img src=\"http://img.jyeoo.net/images/root/img-loading.jpg\" /></div><p>菁优正通过题库大数据分析</p><p>请您稍等.......</p></div>";
+            $(a).appendTo($("#changeQues"));
+        }
+
+        //解决部分题干中的图片宽过大，导致显示不全的问题，设置宽度过大的图片width:100%
+        // 参数 int m 当图片宽大于m 设置100%
+        function setPictureWith100(m) {
+            $(".pt1 img").each(function (i) {
+                var img = $(this), _w = typeof (m) != 'undefined' ? m : 625;
+                var realWidth;//真实的宽度
+                $("<img/>").attr("src", $(img).attr("src")).load(function () {
+                    realWidth = this.width;
+                    if (realWidth >= _w) {
+                        $(img).css("width", "100%").css("height", "auto");
+                    }
+                });
+            });
+        }
+
+        //试题已用（当前用户已组卷次数）
+        function _setByPapers(subject, ids) {
+            $.post("/" + subject + "/api/getuserpaperinfo", { a: JSON.stringify(ids), r: Math.random() }, function (data) {
+                if (data.S == 0) {
+                    $(data.D).each(function (i, e) {
+                        var tip = $("fieldset[id=" + e.Key+"]").next("div.fieldtip").find(".fieldtip-left");
+                        var titles = "";
+                        $(e.Value).each(function (ii, ee) {
+                            titles = titles.length > 0 ? titles + "\r\n" + ee : ee;
+                        });
+                        tip.append("<span title=\"" + titles + "\">已用：" + e.Value.length + "</span>");
+                    });
+                }
+            });
+        }
+
+        //充值vip
+        function subPayFor(t, p) {
+            if (!jyeoo.isLogin()) { openLoginUI(); return; }
+
+            var url = '/recharge/for';
+            var newWin = window.open("/home/jumpwait");
+            $.post(url, { t: t, p: p, r: Math.random() }, function (data) {
+                if (data) {
+                    if (data.S == 0) {
+                        newWin.location.href = "/recharge/cashier/" + data.D;
+                    }
+                    else if (data.S == 2) {
+                        newWin.location.href = "/recharge/campus";
+                    }
+                    else {
+                        newWin.close();
+                        showMessage(data.M, false);
+                    }
+                }
+            }, "json");
+        }
+
+        function _findFavoriteData(data, id) {
+            for (var i = 0; i < data.length; i++) {
+                if (data[i] == id) {
+                    return data[i];
+                }
+            }
+            return null;
+        }
+        function initUserFavorite(s, tp, ids) {
+            if (!jyeoo.isLogin()) { return; }
+
+            $.post("/" + s + "/favorite/checkuserfavorite", { t: tp, a: JSON.stringify(ids), r: Math.random() }, function (data) {
+                if (data.S == 0) {
+                    $(ids).each(function () {
+                        var rfid = this, fdt = $("#" + rfid);
+                        var $a = fdt.closest(".QUES_LI").find(".fieldtip").find("i.i-collect").closest("a");
+                        if ($a.size() > 0) {
+                            var uft = _findFavoriteData(data.D, rfid);
+                            if (uft != null) {
+                                //span.html("");
+                                //$("<a href=\"javascript:void(0)\" onclick=\"removeFavoriteByRFID(this,'" + s + "','" + qid + "','" + tp + "')\"><i class=\"icon i-remove\"></i>移除收藏</a>").appendTo(span);
+                                $a.attr("onclick", "").unbind("click").click(function () {
+                                    removeFavoriteByRFID(this, s, rfid, tp);
+                                });
+                                $a.html("<i class=\"icon i-remove\"></i>移除收藏");
+                            }
+                        }
+                    });
+                }
+            });
+        }
+        
+        function callbackFavorite(s, a, t) {
+            var fdt = $("#" + a);
+            var $a = fdt.closest(".QUES_LI").find(".fieldtip").find("i.i-collect").closest("a");
+            if ($a.size() > 0) {
+                $a.attr("onclick", "").unbind("click").click(function () {
+                    removeFavoriteByRFID(this, s, a, t);
+                });
+                $a.html("<i class=\"icon i-remove\"></i>移除收藏");
+            }
+        }
+        function removeFavoriteByRFID(el, s, rfid, tp, isReload) {
+            el = $(el);
+
+            showConfirm("确定要移除该条收藏记录吗？", ["确定", function () {
+                var that = $(this);
+                $.post("/" + s + "/favorite/removefavoritebyrfid", { t: tp, a: rfid, "r": Math.random() }, function (data) {
+                    if (data.S == 0) {
+                        if (isReload == '1') {
+                            location.reload();
+                        } else {
+                            closeBox(that);
+                            el.attr("onclick", "").unbind("click").click(function () {
+                                Test2.favorite(this, s, rfid, tp, "callbackFavorite");
+                            });
+                            el.html("<i class=\"icon i-collect\"></i>收藏");
+                        }
+                    } else {
+                        showMessage(data.M);
+                    }
+                });
+            }],
+            ["取消", function () {
+                closeBox(this);
+            }]);
+        }
+        function feedback() {
+            if (!jyeoo.isLogin()) return;
+
+            var option = { width: "540", height: "340", draggable: true, title: "新增建议" };
+            var box = openBox(option, "/home/feedback", {}, function () {
+                $(this).loaded();
+            });
+        }
+        //下载答题卡
+        function downAnswerCard(el, s, id, tp, utp, pgtp) {
+            el = $(el);
+            var category = "下载答题卡";
+            var action = pgtp == 1 ? "组卷中心" : pgtp == 2 ? "组卷详情" : "试卷详情";
+            var label = utp == -1 ? "匿名用户" : utp == 1 ? "校园号用户" : utp == 2 ? "VIP用户" : "普通用户";
+            var nodeid = el.attr("id");
+            _czc.push(['_trackEvent', category, action, label, '', nodeid]);
+
+            if (utp != 1 && utp != 2) {
+                showVipRightTip();
+                return;
+            }
+
+            var options = { "width": 600, "height": 420, "title": "【下载答题卡】", "buttons": {} };
+            var box = openBox(options, "/" + s + "/api/answercard", { a: id, b: tp, r: Math.random() });
+            var ftb = box.getInner().find(".footer-bar span:eq(0)");
+            ftb.find("button").remove();
+        }
+    </script>
+    
+    <script type="text/javascript">
+        var subject = 'chinese', lbs = '';
+        var isShowAnswer = true, changeFlag = 1, pageIndex = 1;
+        var isfirstload = true;
+
+        var bookID, f = '0', chx = '0', chxtp = '0', vip = 'False' == 'True', xiao = 'False' == 'True';
+
+        var q = '', ct = 0, dg = 0, fg = 0, po = 0, pd = 1, pi = 1, so = 0, so2 = 0;
+
+        //分装对象，包含方法名，参数名等
+        var paraObj = [];
+        paraObj.push({ nm: "q", val: q });//考点/章节
+        paraObj.push({ nm: "chx", val: chx });//单选/多选
+        paraObj.push({ nm: "chxtp", val: chxtp });//多选（交集/并集）
+        paraObj.push({ nm: "lbs", val: lbs });//地区
+        paraObj.push({ nm: "ct", val: "0" });//题型
+        paraObj.push({ nm: "dg", val: "0" });//难度
+        paraObj.push({ nm: "fg", val: "0" });//题类
+        paraObj.push({ nm: "so", val: "0" });//来源
+        paraObj.push({ nm: "so2", val: "0" });//二级来源
+        paraObj.push({ nm: "po", val: "0" });//排序规则
+        paraObj.push({ nm: "pd", val: "1" });//排序升降
+        paraObj.push({ nm: "yr", val: "" });//年份
+
+        $(function () {
+
+            //初始化地区
+            $(".nav-address").data("no", lbs).initLBS("2", function (code, text) { _setLBS(code, text); });
+
+            //显示答案
+            $("#isAnswer").click(function () { _propAnswerClick(this); });
+
+            //知识点挑题
+            if (f == "1") {
+                var op = {};
+                var cb = "_setQ";
+                if (chx == "1") {
+                    op = { "checkbox": true, "onlyLeafNode": true, "maxPointCount": 3 };
+                    if (chxtp == "1") {
+                        op.maxPointCount = 5;
+                    }
+                }
+                $("#divTree2").empty().load("/" + subject + "/ques/partialcategory", {
+                    f: f,
+                    q: q,
+                    op: JSON.stringify(op),
+                    cb: cb,
+                    r: Math.random()
+                }, function () {
+                    $(this).loaded();
+                    if(chx=="1") _setNode();                    
+                });
+            }
+
+            QSearch.init(f, 'chinese', '#pageArea', paraObj);
+        });
+
+        function _loadTree(el, bkID) {
+            $("#spanEdition").html($(el).find("dl:eq(0)").find("a.active").html() + "：");
+            $("#spanGrade").html($(el).find("dl:eq(1)").find("a.active").html());
+            var url = "/" + subject + "/ques/partialcategory?q=" + encodeURIComponent(q);
+            $("#divTree2").empty().loading("CT").load(url, {
+                a: bkID,
+                f: f,
+                cb: "_setQ",
+                r: Math.random()
+            }, function () {
+                $(this).loaded();
+            });
+
+        }
+        
+        //考点
+        function _setQ(q) {
+            //paraObj[0].val = q;
+            //if (changeFlag == 1) { _loadList(); }
+            //else { loadPage(); }
+            QSearch.param[0].val = q;
+            if (changeFlag == 1) { QSearch.loadList(); }
+            else { QSearch.loadPage();}
+        }
+        function _setNode() {
+            var strNodes = $.cookie("j_" + subject + "_q_pnos_" + chxtp);
+            if (strNodes) {
+                var nodes = strNodes.split(",");
+                $.each(nodes, function (i, rec) {
+                    $(".divCategory").find("a[pk='" + rec + "']").prev("input[type=checkbox]").click();
+                });                
+            }   
+            _loadListChx();
+        }
+        function _clearClick(el) {
+            el = $(el);
+            var pk = el.closest("span").attr("pk");
+            el.closest("span").remove();
+            $(".divCategory").find("a[pk='" + pk + "']").prev("input[type=checkbox]").click();
+        }
+        function _clearAllNode() {
+            $(".divCategory").find("input[type=checkbox]:checked").click();
+            $.cookie("j_" + subject + "_q_pnos_" + chxtp, "");
+        }
+        //地区
+        function _setLBS(code, text) {
+            QSearch.setParam('', 'lbs', code);
+        }
+    
+        function _loadListChx() {
+            var p = QSearch.getParamArry(), url = '/chinese/ques/partialques?f=' + f;
+            if (p.length > 0) {
+                url += "&" + p.join("&");
+            }
+            url += '&pi=' + pi;
+            url += '&r=' + Math.random();
+
+            var nodes = [];
+            $(".divCategory").find("input[type=checkbox]:checked").each(function () {
+                nodes.push($(this).next("a").attr("pk"));
+            });
+
+            var divList = $("#pageArea").empty().loading("CT").load(url, {
+                pts: JSON.stringify(nodes)
+            }, function () {
+                divList.loaded();
+                try { renderLatex(this); } catch (e) { }
+                $.cookie("j_" + subject + "_q_pnos_" + chxtp, nodes.join(','));
+            });
+        }
+        function similarQues(el, subject, quesID, tp) {
+            viewSimilar(el, subject, quesID, tp, $("#pageArea"));
+        }
+
+        function goPage(i) {
+            pi = i;
+            if (chx == "1") {
+                _loadListChx();
+            } else {
+                QSearch.loadList(pi);
+            }
+        }
+
+        function newQuesRightTip(rtp) {
+            _czc.push(['_trackEvent', '新题速递', '展开点击', '', '', 'aNewQues']);
+
+            if (rtp == "1") openLoginUI();
+            else showVipRightTip();
+        }
+
+        function goPaperSearch(el, s) {
+            _czc.push(['_trackEvent', '章节挑题', '同步练习卷点击', '', '', 'aPaperSearch']);
+
+            el = $(el);
+            var url = "/" + s + "/paper/search?q=" + QSearch.param[0].val + "&lbs=" + QSearch.param[3].val;
+            el.attr("href", url).attr("target", "_blank");
+            return true;
+        }
+
+        function multiChxClick(tp) {
+            if (tp == -1) {
+                _czc.push(['_trackEvent', '知识点挑题', '多选点击', '匿名用户', '', 'liMultiChx']);
+                openLoginUI();
+            } else if (tp == 1) {
+                _czc.push(['_trackEvent', '知识点挑题', '多选点击', '校园号用户', '', 'liMultiChx']);
+                QSearch.setParam(this, 'chx', '1');
+            } else if (tp == 2) {
+                _czc.push(['_trackEvent', '知识点挑题', '多选点击', 'VIP用户', '', 'liMultiChx']);
+                QSearch.setParam(this, 'chx', '1');
+            } else {
+                _czc.push(['_trackEvent', '知识点挑题', '多选点击', '普通用户', '', 'liMultiChx']);
+                showVipRightTip();
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        var QSearch = {
+            f:'',
+            subject: '',
+            holder:'',
+            param: [],
+
+            init: function (f, sub, holder, obj) {
+                this.f = f;
+                this.subject = sub;
+                this.holder = holder;
+                this.param = obj;
+            },
+            setParam: function (el, nm0, val0, nm1, val1) {
+                var that = this;
+                param = that.param;
+                el = $(el);
+                for (var i = 0; i < param.length; i++) {
+                    if (param[i].nm == nm0) {
+                        param[i].val = val0;
+                    }
+                    if (nm1) {
+                        if (param[i].nm == nm1) {
+                            param[i].val = val1;
+                        }
+                    }
+                }
+
+                if (nm0 == "ct" || nm0 == "dg" || nm0 == "fg" || nm0 == "yr" || nm0 == "so" || nm0 == "so2" || nm0 == "po") {
+                    var ul = el.closest("ul");
+                    ul.find("a").removeClass("cur");
+                    el.addClass("cur");
+                    if (nm0 == "po") {
+                        if (val1 >= 1) {
+                            el.find("i").removeClass("i-down,i-up").addClass("i-down");
+                        } else {
+                            el.find("i").removeClass("i-down,i-up").addClass("i-up");
+                        }
+                    }
+                }
+                //小学奥数赛事
+                if (nm0 == "so") {
+                    param[8].val = "0";
+                    $("tr[so]").each(function () {
+                        if ($(this).attr("so") == val0) {
+                            $(this).show().find("a").removeClass("cur").first().addClass("cur");
+                        }
+                        else {
+                            $(this).hide();
+                        }
+                    });
+                }
+                that.loadPage();
+                
+            },
+            getParamArry: function () {
+                var that = this;
+                param = that.param;
+                var p = [];
+                for (var i = 0; i < param.length; i++) {
+                    if (param[i].nm != "lbs" && param[i].nm != "pd" && (param[i].val == "" || param[i].val == "0")) {
+                        continue;
+                    }
+                    p.push(param[i].nm + "=" + encodeURIComponent(param[i].val));
+                }
+                return p;
+            },
+            loadPage: function () {
+                var that = this;
+                var p = that.getParamArry(), url = "/" + that.subject + "/ques/search?f=" + f;
+
+                if (p.length > 0) {
+                    url += "&" + p.join("&");
+                }
+                location.href = url;
+            },
+            loadList: function (pi) {
+                var that = this;
+                var p = that.getParamArry(), url = '/' + that.subject + '/ques/partialques?f=' + f;
+                if (p.length > 0) {
+                    url += "&" + p.join("&");
+                }
+                url += '&pi=' + pi;
+                url += '&r=' + Math.random();
+                $(that.holder).empty().loading("CT").load(url, function () {
+                    $(this).loaded();
+                    changeFlag = 0;
+                    try { renderLatex(this); } catch (e) { }
+                    if (pi > 1) $(window).scrollTop(420);
+                });
+            }
+        };
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            var divTree = $("#divTree"), nav = $("#divNav"), right = $("#divRight"), leftToggle = $("#leftToggle");
+            var rightTop = right.offset().top, navTop = nav.offset().top, treeTop = divTree.offset().top, toggleTop = leftToggle.offset().top;
+
+            var tree = divTree.find(".tree");
+
+            var treeW = divTree.outerWidth();
+            var leftW = leftToggle.outerWidth();
+
+            var treeMax = $(window).height() - nav.height();
+            divTree.css({ "max-height": treeMax });
+            tree.css({ "max-height": treeMax - 82 });
+            window.onresize = resize;
+            function resize() {
+                treeMax = $(window).height() - nav.height();
+                divTree.css({ "max-height": treeMax });
+                tree.css({ "max-height": treeMax - 82 });
+            }
+            $(window).scroll(function () {
+                if (divTree.height() < treeMax && right.height() < 650) {
+                    $(".content").css({ "min-height": $(window).height() });
+                }
+                var s = $(document).scrollTop();
+                if (s > navTop) {
+                    if (!nav.hasClass('nav-box-show')) {
+                        nav.addClass('nav-box-show');
+                    }
+                }
+                else {
+                    nav.removeClass('nav-box-show');
+                }
+
+                if (s > rightTop) {
+
+                    if (!right.hasClass('right-box-show')) {
+                        right.addClass('right-box-show');
+                        if ($(window).width() < 1200) {
+                            right.css({ "left": "auto", "right": 0 });
+                        } else {
+                            var rightLeft = ($(window).width() - 1200) / 2 + 1160;
+                            right.css("left", rightLeft);
+                        }
+                    }
+                }
+                else {
+                    right.removeClass('right-box-show');
+                    right.css("left", 0);
+                }
+
+                if (s > treeTop) {
+                    if (!divTree.hasClass('tree-box-show')) {
+                        divTree.addClass('tree-box-show');
+                        var treeLeft = ($(window).width() - 1200) / 2;
+                        divTree.css({ "left": treeLeft, "top": nav.height() + 5 });
+                    }
+                    if ($(window).width() < 1200) {
+                        if (!leftToggle.hasClass('toggle-show')) {
+                            leftToggle.addClass('toggle-show');
+                            leftToggle.css({ "left": 0, "top": nav.height() + 5 });
+                        }
+                    }
+                }
+                else {
+                    divTree.removeClass('tree-box-show').css({ "left": 0, "top": 0 });
+
+                    if ($(window).width() < 1200) {
+                        leftToggle.hide();
+                        divTree.show().css("width", treeW);
+                    }
+                }
+
+                if ($(window).width() < 1200) {
+                    divTree.css({ "left": 0 });
+                }
+
+
+                /*判断滚动条到达底部时*/
+                if ($(document).scrollTop() >= $(document).height() - $(window).height() - 90) {
+                    var max = $(window).height() - nav.height() - 100;
+                    divTree.css("max-height", max);
+                    tree.css({ "overflow-y": "scroll", "max-height": max - 82 });
+                }
+
+                if (tree.find("ul").height() > tree.height) {
+                    tree.css("overflow-y", "scroll");
+                } else {
+                    tree.css("overflow-y", "");
+                }
+            });
+
+            /*屏幕低于1200*/
+            if ($(window).width() < 1200) {
+                $(".btn-toggle").show();
+                $(".btn-toggle").each(function () {
+                    var s = $(document).scrollTop();
+
+                    $(this).click(function () {
+                        var pos = divTree.css("position");
+                        var posT = divTree.css("top");
+
+                        if (leftToggle.is(":hidden")) {
+                            leftToggle.show().css({ "width": 0, "position": pos, "top": posT }).stop().animate({ "width": leftW }, 1000);
+                            divTree.stop().animate({
+                                "width": 0
+                            }, 1000, function () {
+                                divTree.hide();
+                            });
+
+                        } else {
+                            leftToggle.stop().animate({
+                                "width": 0
+                            }, 1000, function () {
+                                leftToggle.hide();
+                            });
+                            divTree.show().css("width", 0).stop().animate({ "width": treeW }, 1000);
+                        }
+                    });
+                });
+            }
+        });
+    </script>
+
+</body>
+</html>
